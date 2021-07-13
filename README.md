@@ -1,6 +1,6 @@
 # Unichat Application
 
-![Chat Application]()
+![Chat Application](site_preview.png)
 
 This is a simple chat application where users can login with their google account and create multiple chat rooms and send text messages and images.
 
